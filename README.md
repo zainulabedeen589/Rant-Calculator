@@ -1,0 +1,2 @@
+# Rant-Calculator
+Rant Calculator
